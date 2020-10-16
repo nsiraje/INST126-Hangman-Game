@@ -36,10 +36,11 @@
         break
 
 7. **If user guesses all correct letters in picked word:
-      It will tell the user they won
-      it will tell the user that the picked word was encrypted
-      it will tell the user the decryption of the picked word
-      break
+
+       It will tell the user they won
+       it will tell the user that the picked word was encrypted
+       it will tell the user the decryption of the picked word
+       break
       
 **END
 user can choose to play again 
