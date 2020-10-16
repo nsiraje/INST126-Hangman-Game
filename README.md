@@ -9,7 +9,9 @@
     right guesses will be stored in the "right" list
     wrong guesses will be stored in the "wrong" list
     
-2. **For the right guess, it will create space for the user and add paranthesis to the letter. And for each guess, it will create a line to space out the outputs
+2. **For the right guess:
+
+it will create space for the user and add paranthesis to the letter. And for each guess, it will create a line to space out the outputs
 
 3. **If the guessed letter by the user is in the picked word:
 
